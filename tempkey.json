@@ -14,6 +14,13 @@
     "allowOffline": true
   },
   {
+    "id": "74f67c1e6545d841",
+    "username": "hot50",
+    "password": "hot50",
+    "expiresAt": "2035-12-31",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
